@@ -1,0 +1,34 @@
+/**
+ * TODO - Styles for the add-observation.html page 
+ */
+
+ .required {
+    color: red;
+ }
+
+ fieldset span {
+    color: red;
+ }
+
+ #description {
+    width: 500px;
+ }
+
+ #notes {
+    width: 525px;
+ }
+
+ #photographer-name {
+    width: 500px;
+ }
+
+ #photographer-email {
+    width: 500px;
+ }
+
+ #location {
+    color: black;
+ }
+
+
+
